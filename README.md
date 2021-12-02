@@ -9,7 +9,7 @@ Just a portfolio made in  Portfolio-VueJS
 ## 💁‍♀️ How to use
 
 - download all the files
-- download yarn
-- install vue `yarn global add @vue/cli`
-- navigate into the files
-- then do `yarn serve` and thats it, it will start a webserver in ur machine on port 3000. example `localhost:3000`
+- download nodejs, npm and vuejs
+- install the additonal packages with npm
+- start the webserver with npm
+- and thats it
